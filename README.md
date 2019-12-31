@@ -1,2 +1,0 @@
-# devopsclsnew16repo
-devopsclsnew16repo
