@@ -7,6 +7,8 @@ Vlans:
     id: 20
   red:
     id: 30
+  pink:
+    id: 40
 ports:
  1: [ 10 ]
  2: [ 20 ]
