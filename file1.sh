@@ -4,4 +4,5 @@ free -m
 date
 uname -r
 
-echo "The job1 is build successfully"
+df -h
+echo "The job1 is build successfully by using github webhook"
